@@ -15,4 +15,4 @@ async def on_ready():
     print(f'We have logged in as {bot.user}')
 #Пишем здесь
 
-bot.run("MTE4MDg5NjA2MjkxMTgwNzYyOQ.GcrLEZ.Ygsjsp020H4af5LFVnJwKt0k0OVw_HuywNNdqM")
+bot.run("")
